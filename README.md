@@ -230,11 +230,38 @@ L = L_ita + λ * L_ss
 
 🏭 工业质检 → 缺陷样本少，需快速适应
 
+📌 Notes
+This repository provides an engineering interpretation of the patented method.
 
+The implementation is simplified for demonstration and educational purposes.
 
+Full industrial-level deployment may require:
 
+Large-scale datasets
 
+Distributed training
 
+Model optimization
 
+👨‍💻 Authors
+刘学亮
+
+苏玉玲
+
+闫坤祺
+
+郭丹
+
+洪日昌
+
+汪萌
+
+蒋贻顺
+
+📄 License
+This project is for academic and research purposes only.
+
+⭐ Acknowledgement
+If you find this work useful, feel free to ⭐ the repository!
 
 
